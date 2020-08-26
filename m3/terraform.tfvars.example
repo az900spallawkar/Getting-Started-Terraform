@@ -1,7 +1,7 @@
-aws_access_key = "AWSAccessKeyId=AKIAJ3G6CSXYUM5652GQ"
+aws_access_key = ""
 
-aws_secret_key = "5CGTKGwU1B+MXWTQtx/hs65WF62UfPK03M1ejWsj"
+aws_secret_key = ""
 
-key_name = "jenkinskey"
+key_name = ""
 
-private_key_path = "/Users/saziyamukadam/Downloads\jenkinskey.pem"
+private_key_path = ""
